@@ -27,4 +27,8 @@ The test project for all modules can be found in this repo, in the [TestProject 
 	```shell
 	git  clone  https://github.com/ws2024s17hu/ws2024s17hu-r3-assets.git  .
 	```
-6. Start the docker containers with the `docker-compose` command, which depends on the competitor's choice of developer tools. For a description of the docker-compose commands corresponding to the different options, see the docker repo `README.md` file.Before running the docker-compose command, make sure that there are no other services running on the machine that use port 80 or 3306.
+6. Start the docker containers with the `docker-compose` command, which depends on the competitor's choice of developer tools. For a description of the docker-compose commands corresponding to the different options, see the docker repo [`README.md`](https://github.com/ws2024s17hu/ws2024s17hu-r3-tp/blob/master/TestProject)file.Before running the docker-compose command, make sure that there are no other services running on the machine that use port 80 or 3306. 
+
+**Important Note:**
+
+In the local environment, addresses ending in `ub2023.hu` and `ub2023-YY.hu` can be replaced with `.localhost`. E.g. `admin.ub2023-01.hu` can be replaced by `admin.localhost`.
