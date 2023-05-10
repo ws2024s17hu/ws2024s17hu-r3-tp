@@ -1,9 +1,9 @@
 
-# WS2024 S17 R3 HU Test Project
+# WorldSkills Lyon 2024 Hungarian National Competition Finals - Web Technologies
 
 ## Test Project
 
-The test project for all modules can be found in this repo, in the [TestProject folder](https://github.com/ws2024s17hu/ws2024s17hu-r3-tp/blob/master/TestProject).
+The test project and marking scheme for all modules can be found in this repo, in the [TestProject folder](https://github.com/ws2024s17hu/ws2024s17hu-r3-tp/blob/master/TestProject).
 
 ## Setup
 
@@ -23,6 +23,9 @@ The test project for all modules can be found in this repo, in the [TestProject 
 	```shell
 	git  clone  https://github.com/ws2024s17hu/ws2024s17hu-r3-www.git  .
 	```
+	(Alternatively, you could create a fork of the www repository and clone the forked repository. In this case, the code containing the solution can be stored in the forked repository.)
+
+
 5. Enter the assets folder and clone the [assets repo](https://github.com/ws2024s17hu/ws2024s17hu-r3-assets) with the following command:
 	```shell
 	git  clone  https://github.com/ws2024s17hu/ws2024s17hu-r3-assets.git  .
