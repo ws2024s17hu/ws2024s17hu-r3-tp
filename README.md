@@ -15,15 +15,15 @@ The test project for all modules can be found in this repo, in the [TestProject 
 	 - www
 	 - assets
 	 - docker
- 3. Enter the docker folder and clone the docker repo with the following command:
+ 3. Enter the docker folder and clone the [docker repo](https://github.com/ws2024s17hu/ws2024s17hu-r3-docker) with the following command:
 	```shell
 	git  clone  https://github.com/ws2024s17hu/ws2024s17hu-r3-docker.git  .
 	```
-4. Enter the www folder and clone the www repo with the following command:
+4. Enter the www folder and clone the [www repo](https://github.com/ws2024s17hu/ws2024s17hu-r3-docker) with the following command:
 	```shell
 	git  clone  https://github.com/ws2024s17hu/ws2024s17hu-r3-www.git  .
 	```
-5. Enter the assets folder and clone the assets repo with the following command:
+5. Enter the assets folder and clone the [assets repo](https://github.com/ws2024s17hu/ws2024s17hu-r3-assets) with the following command:
 	```shell
 	git  clone  https://github.com/ws2024s17hu/ws2024s17hu-r3-assets.git  .
 	```
