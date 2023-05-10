@@ -9,9 +9,11 @@ The test project for all modules can be found in this repo, in the  [TestProject
 The environment needed to solve test projects can be easily created in a local environment. This requires the creation of a folder structure and three repo clones.
 1. Create a folder for the whole working environment with a name of your choice (e.g. ws2024s17hur3)
 2. Create three more folders in the folder created in the previous step
+
   1. www
   2. assets
   3. docker
+  
 3. Enter the docker folder and clone the docker repo with the following command: 
 ```shell
 git clone https://github.com/ws2024s17hu/ws2024s17hu-r3-docker.git .
