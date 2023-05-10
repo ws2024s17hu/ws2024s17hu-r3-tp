@@ -35,3 +35,5 @@ The test project and marking scheme for all modules can be found in this repo, i
 **Important Note:**
 
 In the local environment, addresses ending in `ub2023.hu` and `ub2023-YY.hu` can be replaced with `.localhost`. E.g. `admin.ub2023-01.hu` can be replaced by `admin.localhost`.
+
+If you have any question about the test project or the docker environment, feel free to contact me at 	zoltan.sisak@gmail.com.
