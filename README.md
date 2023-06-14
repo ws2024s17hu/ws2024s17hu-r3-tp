@@ -15,7 +15,7 @@ The test project and marking scheme for all modules can be found in this repo, i
 	 - www
 	 - assets
 	 - docker
- 3. Enter the docker folder and clone the [docker repo](https://github.com/ws2024s17hu/ws2024s17hu-r3-docker) with the following command:
+ 3. Enter the folder you created in the first step and clone the [docker repo](https://github.com/ws2024s17hu/ws2024s17hu-r3-docker) with the following command:
 	```shell
 	git  clone  https://github.com/ws2024s17hu/ws2024s17hu-r3-docker.git  .
 	```
