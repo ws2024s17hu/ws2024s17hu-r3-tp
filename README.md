@@ -7,7 +7,7 @@ The test project and marking scheme for all modules can be found in this repo, i
 
 ## Setup
 
- The environment needed to solve test projects can be easily created in a local environment. This requires the creation of a folder structure and three repo clones.
+The docker based environment needed to solve test projects can be easily created in a local environment. This requires the creation of a folder structure and three repo clones.
 
 1. Create a folder for the whole working environment with a name of your choice (e.g. ws2024s17hur3)
 
