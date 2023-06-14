@@ -30,7 +30,7 @@ The test project and marking scheme for all modules can be found in this repo, i
 	```shell
 	git  clone  https://github.com/ws2024s17hu/ws2024s17hu-r3-assets.git  .
 	```
-6. Start the docker containers with the `docker-compose` command, which depends on the competitor's choice of developer tools. For a description of the docker-compose commands corresponding to the different options, see the docker repo [`README.md`](https://github.com/ws2024s17hu/ws2024s17hu-r3-tp/blob/master/TestProject)file.Before running the docker-compose command, make sure that there are no other services running on the machine that use port 80 or 3306. 
+6. Start the docker containers with the `docker-compose` command, which depends on the competitor's choice of developer tools. For a description of the docker-compose commands corresponding to the different options, see the docker repo [`README.md`](https://github.com/ws2024s17hu/ws2024s17hu-r3-docker/blob/main/README.md) file.Before running the docker-compose command, make sure that there are no other services running on the machine that use port 80 or 3306. 
 
 **Important Note:**
 
